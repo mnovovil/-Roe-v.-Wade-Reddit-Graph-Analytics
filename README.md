@@ -6,7 +6,7 @@ The researchers scrapped data from Reddit and analyzed the surrouding communitie
 2. Echo Chamber: High level of clustering along determined dimensions that reinforces existing attitudes.
 3. Selective Exposure: Individuals expose themselves to information that simply reinforces their existing views.
 
-This following contains:
+This repository contains:
 1. Final Report.
 2. Presentation Delivered at the End of the two tweek Summer Institute in Computational Social Science.
 3. EDA, Scrappring and Graph Analytics Jupyter Notebooks.
