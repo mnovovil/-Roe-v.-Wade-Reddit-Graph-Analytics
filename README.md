@@ -1,5 +1,5 @@
 # Roe v. Wade Reddit Graph Analytics
-Analysis of Meta-Communities Surrounding “Roe v. Wade” on Reddit: Graph Analytics.
+Analysis of Meta-Communities Surrounding “Roe v. Wade” on Reddit: Graph Analytics - Summer Institute in Computational Social Science https://sicss.io/2022/rochester/.
 
 The researchers scrapped data from Reddit and analyzed the surrouding communities around Roe v Wade based on the following social concepts:
 1. Homophily: Love of the same
