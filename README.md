@@ -14,4 +14,4 @@ This following contains:
 Sample Output
 
 
-<img src="https://github.com/mnovovil/-Roe-v.-Wade-Reddit-Graph-Analytics/blob/main/Roe%20v%20Wade%20Meta%20Communities.png" width="50%" height="50%">
+<img src="https://github.com/mnovovil/-Roe-v.-Wade-Reddit-Graph-Analytics/blob/main/Roe%20v%20Wade%20Meta%20Communities.png" width="100%" height="100%">
