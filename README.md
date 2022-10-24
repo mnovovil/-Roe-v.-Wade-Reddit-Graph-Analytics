@@ -1,4 +1,4 @@
-# Roe v. Wade Reddit Graph Analytics - Summer Institute in Computational Social Science https://sicss.io/2022/rochester/ (2 weeks)
+# Roe v. Wade Reddit Graph Analytics - Summer Institute in Computational Social Science 
 Analysis of Meta-Communities Surrounding “Roe v. Wade” on Reddit: Graph Analytics.
 
 The researchers scrapped data from Reddit and analyzed the surrounding communities around Roe v Wade based on the following social concepts:
